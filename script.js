@@ -129,6 +129,36 @@ const images = [
         src: "https://i.ibb.co/r2VFjNF/Randy-Blue-Abele-Place-Jake-Davis.jpg",
         name: "[20240821] Randy Blue - Abele Place & Jake Davis",
         downloadLink: "https://10gb.vn/r1lg6z0th0rw.html"
+    },
+	{
+        src: "https://i.ibb.co/P1zhn0j/Eric-Videos-Samuel-Decker-Dimitri-Venum.jpg",
+        name: "[20240821] Eric Videos - Samuel Decker & Dimitri Venum",
+        downloadLink: "https://10gb.vn/acfhakw2et5c.html"
+    },
+	{
+        src: "https://i.ibb.co/TwmQV3G/OF-Caio-Rodrigues-Gael-k-Riok-Andrey-Cam.jpg",
+        name: "[20240821] OF - Caio Rodrigues, Gael kRiok & Andrey Cam",
+        downloadLink: "https://10gb.vn/d2hola0hpm57.html"
+    },
+	{
+        src: "https://i.ibb.co/VtJ2w41/OF-Ruslan-Angelo-Joshua-Mateo-Jack-Wolf.jpg",
+        name: "[20240821] OF - Ruslan Angelo, Joshua Mateo & Jack Wolf",
+        downloadLink: "https://10gb.vn/4xpb478l15th.html"
+    },
+	{
+        src: "https://i.ibb.co/Q7VJ6x1/OF-Sean-Xavier-Casey-Cruz.jpg",
+        name: "[20240821] OF - Sean Xavier & Casey Cruz",
+        downloadLink: "https://10gb.vn/ahrzkm73j2zy.html"
+    },
+	{
+        src: "https://i.ibb.co/NF0XZ3j/VOYR-Andy-Rodrigues-Boe-Jack-Ryan.jpg",
+        name: "[20240821] VOYR - Andy Rodrigues & Boe Jack Ryan",
+        downloadLink: "https://10gb.vn/as2ys3zqf6xw.html"
+    },
+	{
+        src: "https://i.ibb.co/JtFyBbR/XVideos-RED-Davi-Lobo-The-Daddy-Finger-Sexystache.jpg",
+        name: "[20240821] XVideos RED - Davi Lobo, The Daddy Finger & Sexystache",
+        downloadLink: "https://10gb.vn/xaawmuc7i78l.html"
     }
 ];
 
