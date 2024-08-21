@@ -198,7 +198,7 @@ const images = [
 	{
         src: "https://i.ibb.co/gjqYmj9/Pig-Bottoms-Vincent-O-Reilly-Myhyem-M-Jordyn-Ty-Santana-Kyle-Michaels.jpg",
         name: "[20240821] Pig Bottoms - Vincent O'Reilly, Myhyem M Jordyn, Ty Santana & Kyle Michaels",
-        downloadLink: "#"
+        downloadLink: "https://10gb.vn/v8omc4kywc3v.html"
     },
 	{
         src: "https://i.ibb.co/f9S6mGB/Randy-Blue-Alex-Kof-Daniel-Evans.jpg",
@@ -208,27 +208,27 @@ const images = [
 	{
         src: "https://i.ibb.co/DkkrHfK/Next-Door-Studios-Jayden-Marcos-Kyle-Fletcher.jpg",
         name: "[20240821] NextDoor Studios - Jayden Marcos & Kyle Fletcher",
-        downloadLink: "#"
+        downloadLink: "https://10gb.vn/4o5qnqewl0hz.html"
     },
 	{
         src: "https://i.ibb.co/09f0nWK/OF-Alex-Marte-PJ-Knox-Beau-Butler.jpg",
         name: "[20240821] OF - Alex Marte, PJ Knox & Beau Butler",
-        downloadLink: "#"
+        downloadLink: "https://10gb.vn/bygxchcr2skf.html"
     },
 	{
         src: "https://i.ibb.co/L952ZnK/OF-Sean-Xavier-Derek-Kage-Boy-in-Blue-XXX.jpg",
         name: "[20240821] OF - Sean Xavier, Derek Kage & Boy in Blue XXX",
-        downloadLink: "#"
+        downloadLink: "https://10gb.vn/dzyf9fciud3m.html"
     },
 	{
         src: "https://i.ibb.co/DYpPYD2/The-Guy-Site-Danny-Parker-Nick-Cranston.jpg",
         name: "[20240821] The Guy Site - Danny Parker & Nick Cranston",
-        downloadLink: "#"
+        downloadLink: "https://10gb.vn/aubxo5hc3ahi.html"
     },
 	{
         src: "https://i.ibb.co/yFkK7v5/VOYR-Gabriel-Coimbra-Rhyheim-Shabazz.jpg",
         name: "[20240821] VOYR - Gabriel Coimbra & Rhyheim Shabazz",
-        downloadLink: "#"
+        downloadLink: "https://10gb.vn/atwhlz97t1jt.html"
     }
 ];
 
