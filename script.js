@@ -114,6 +114,21 @@ const images = [
         src: "https://i.ibb.co/gTk8B9Q/VOYR-Marlon-Costa-Valney-Chocolate.jpg",
         name: "[20240818] VOYR - Marlon Costa & Valney Chocolate",
         downloadLink: "https://10gb.vn/4sn6dv5m8uar.html"
+    },
+	{
+        src: "https://i.ibb.co/0y7JGYd/MEN-Ashton-Summers-Reese-Rideout-Shamu-Azizam.jpg",
+        name: "[20240821] MEN - Ashton Summers, Reese Rideout & Shamu Azizam",
+        downloadLink: "https://10gb.vn/0g7ohjz0uokv.html"
+    },
+	{
+        src: "https://i.ibb.co/CJnBzfG/OF-Viktor-Onee-Marco-Maxxx-Tomy-Stark.jpg",
+        name: "[20240821] OF - ViktorOnee, Marco Maxxx & Tomy Stark",
+        downloadLink: "https://10gb.vn/5vlp1ll560ic.html"
+    },
+	{
+        src: "https://i.ibb.co/r2VFjNF/Randy-Blue-Abele-Place-Jake-Davis.jpg",
+        name: "[20240821] Randy Blue - Abele Place & Jake Davis",
+        downloadLink: "https://10gb.vn/r1lg6z0th0rw.html"
     }
 ];
 
