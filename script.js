@@ -283,52 +283,52 @@ const images = [
 	{
         src: "https://i.ibb.co/TgpfkY1/Bait-Buddies-Riley-Mitchel-Christian-David-Mitchel.jpg",
         name: "[20240822] Bait Buddies - Riley Mitchel & Christian (David Mitchel)",
-        downloadLink: "#"
+        downloadLink: "https://10gb.vn/pkethydqxrcz.html"
     },
 	{
         src: "https://i.ibb.co/RzP5hdt/Chaos-Men-Valentin-Petrov-Brock-Banks.jpg",
         name: "[20240822] ChaosMen - Valentin Petrov & Brock Banks",
-        downloadLink: "#"
+        downloadLink: "https://10gb.vn/nav2aoixc1tk.html"
     },
 	{
         src: "https://i.ibb.co/DKNff5Q/Falcon-Studios-Joseph-Hart-Baxxx-Baxter-Linn.jpg",
         name: "[20240822] Falcon Studios - Joseph Hart & Baxxx (Baxter Linn)",
-        downloadLink: "#"
+        downloadLink: "https://10gb.vn/hkdyyqutirc8.html"
     },
 	{
         src: "https://i.ibb.co/0FMR3ym/Kristen-Bjorn-John-Rodriguez-Gianni-Gio.jpg",
         name: "[20240822] Kristen Bjorn - John Rodriguez & Gianni Gio",
-        downloadLink: "#"
+        downloadLink: "https://10gb.vn/qozdgwokkgye.html"
     },
 	{
         src: "https://i.ibb.co/BrYQ6hF/OF-Diego-Sans-Roger-Monzon.jpg",
         name: "[20240822] OF - Diego Sans & Roger Monzon",
-        downloadLink: "#"
+        downloadLink: "https://10gb.vn/nu0rdfmn6mjr.html"
     },
 	{
         src: "https://i.ibb.co/dgrrkXp/OF-Ice-Man-JB-Dr-One-Dik-Ben.jpg",
         name: "[20240822] OF - IceManJB, DrOneDik & Ben",
-        downloadLink: "#"
+        downloadLink: "https://10gb.vn/1qsenbbakuxi.html"
     },
 	{
         src: "https://i.ibb.co/bFb7H2S/OF-Matthew-Ellis-Hung-Skater.jpg",
         name: "[20240822] OF - Matthew Ellis & Hung Skater",
-        downloadLink: "#"
+        downloadLink: "https://10gb.vn/k220lcudrft1.html"
     },
 	{
         src: "https://i.ibb.co/nkMjm6P/OF-Pedro-Rocha-Klebert-Fernandes-Enzo-Nery.jpg",
         name: "[20240822] OF - Pedro Rocha, Klebert Fernandes & Enzo Nery",
-        downloadLink: "#"
+        downloadLink: "https://10gb.vn/z2vqel7543ul.html"
     },
 	{
         src: "https://i.ibb.co/P957DRW/Raging-Stallion-Studios-Drew-Valentino-Sean-Xavier-Bruce-Jones-Grayden-Hall.jpg",
         name: "[20240822] Raging Stallion Studios - Drew Valentino, Sean Xavier, Bruce Jones & Grayden Hall",
-        downloadLink: "#"
+        downloadLink: "https://10gb.vn/xalkuyzwuh22.html"
     },
 	{
         src: "https://i.ibb.co/jWN55sz/The-Guy-Site-Ed-Brook-Angelo.jpg",
         name: "[20240822] The Guy Site - Ed Brook & Angelo",
-        downloadLink: "#"
+        downloadLink: "https://10gb.vn/yhqgsw85d8hy.html"
     }
 	
 ];
