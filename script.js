@@ -229,7 +229,58 @@ const images = [
         src: "https://i.ibb.co/yFkK7v5/VOYR-Gabriel-Coimbra-Rhyheim-Shabazz.jpg",
         name: "[20240821] VOYR - Gabriel Coimbra & Rhyheim Shabazz",
         downloadLink: "https://10gb.vn/atwhlz97t1jt.html"
+    },
+	{
+        src: "https://i.ibb.co/b7ZF3Nk/Bro-Network-Ryan-Bones-Papi-Santiago.jpg",
+        name: "[20240822] BroNetwork - Ryan Bones & Papi Santiago",
+        downloadLink: "https://10gb.vn/bxl4ozdz49ve.html"
+    },
+	{
+        src: "https://i.ibb.co/p67z5DD/Cocky-Boys-Angel-Elias-Seth-Cain.jpg",
+        name: "[20240822] Cocky Boys - Angel Elias & Seth Cain",
+        downloadLink: "https://10gb.vn/2kbtjzovv5e5.html"
+    },
+	{
+        src: "https://i.ibb.co/2596NBW/Men-At-Play-Allen-King-Luciano.jpg",
+        name: "[20240822] MenAtPlay - Allen King & Luciano",
+        downloadLink: "https://10gb.vn/45ejabhoodc0.html"
+    },
+	{
+        src: "https://i.ibb.co/gvcfjPt/Naked-Sword-Beau-Butler-Sumner-Blayne.jpg",
+        name: "[20240822] Naked Sword - Beau Butler & Sumner Blayne",
+        downloadLink: "https://10gb.vn/va5pslp7urol.html"
+    },
+	{
+        src: "https://i.ibb.co/X5wMJ87/OF-Caio-Rodrigues-Rosilva.jpg",
+        name: "[20240822] OF - Caio Rodrigues & Rosilva",
+        downloadLink: "https://10gb.vn/8efgtb1kwgys.html"
+    },
+	{
+        src: "https://i.ibb.co/rmKyRKW/OF-Chaka-Of-Paradise-Chuck-Conrad.jpg",
+        name: "[20240822] OF - Chaka Of Paradise & Chuck Conrad",
+        downloadLink: "https://10gb.vn/182ii7pz1ue0.html"
+    },
+	{
+        src: "https://i.ibb.co/h9DpBXx/OF-Halif-Faruk-Viktor-Rom.jpg",
+        name: "[20240822] OF - Halif Faruk & Viktor Rom",
+        downloadLink: "https://10gb.vn/0ideu3d7bsxj.html"
+    },
+	{
+        src: "https://i.ibb.co/j8jbVZL/OF-Klebert-Fernandes-Pedro-Rocha.jpg",
+        name: "[20240822] OF - Klebert Fernandes & Pedro Rocha",
+        downloadLink: "https://10gb.vn/pkls3f73w0g5.html"
+    },
+	{
+        src: "https://i.ibb.co/wN3nL1M/OF-Matthew-Ellis-Hung-Skater.jpg",
+        name: "[20240822] OF - Matthew Ellis & Hung Skater",
+        downloadLink: "https://10gb.vn/bl4s4rfgykhy.html"
+    },
+	{
+        src: "https://i.ibb.co/GF33tfc/Sean-Cody-Daniel-Danny-Fantasy.jpg",
+        name: "[20240822] Sean Cody - Daniel & Danny Fantasy",
+        downloadLink: "https://10gb.vn/ljdlqdelqvf0.html"
     }
+	
 ];
 
 // Sắp xếp danh sách từ Z đến A dựa trên chuỗi tên đầy đủ (bao gồm cả ngày tháng)
