@@ -329,6 +329,16 @@ const images = [
         src: "https://i.ibb.co/jWN55sz/The-Guy-Site-Ed-Brook-Angelo.jpg",
         name: "[20240822] The Guy Site - Ed Brook & Angelo",
         downloadLink: "https://10gb.vn/yhqgsw85d8hy.html"
+    },
+	{
+        src: "https://i.ibb.co/qNgV2J0/Corbin-Fisher-Max-Beau.jpg",
+        name: "[20240823] Corbin Fisher - Max & Beau",
+        downloadLink: "#"
+    },
+	{
+        src: "https://i.ibb.co/tQTtLmc/OF-Cade-Maddox-Angel-Elias.jpg",
+        name: "[20240823] OF - Cade Maddox & Angel Elias",
+        downloadLink: "#"
     }
 	
 ];
