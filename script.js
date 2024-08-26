@@ -333,12 +333,12 @@ const images = [
 	{
         src: "https://i.ibb.co/qNgV2J0/Corbin-Fisher-Max-Beau.jpg",
         name: "[20240823] Corbin Fisher - Max & Beau",
-        downloadLink: "#"
+        downloadLink: "https://10gb.vn/isfjmri6issv.html"
     },
 	{
         src: "https://i.ibb.co/tQTtLmc/OF-Cade-Maddox-Angel-Elias.jpg",
         name: "[20240823] OF - Cade Maddox & Angel Elias",
-        downloadLink: "#"
+        downloadLink: "https://10gb.vn/pcdm82eu7zow.html"
     }
 	
 ];
