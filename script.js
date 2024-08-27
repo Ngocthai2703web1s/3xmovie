@@ -348,72 +348,72 @@ const images = [
 	{
         src: "https://i.ibb.co/26xGjMs/Cutlers-Den-Cutler-X-Derek-Kage.jpg",
         name: "[20240826] CutlersDen - Cutler X & Derek Kage",
-        downloadLink: "#"
+        downloadLink: "https://10gb.vn/6t4jfyn7721m.html"
     },
 	{
         src: "https://i.ibb.co/gwrWH4F/Latin-Boyz-Juliano-Angelo.jpg",
         name: "[20240826] Latin Boyz - Juliano & Angelo",
-        downloadLink: "#"
+        downloadLink: "https://10gb.vn/94y93vf5mtet.html"
     },
 	{
         src: "https://i.ibb.co/SQ33PKn/Lucas-Entertainment-Ridick-Rudy-Gram.jpg",
         name: "[20240826] Lucas Entertainment - Ridick & Rudy Gram",
-        downloadLink: "#"
+        downloadLink: "https://10gb.vn/t4b272kkovmg.html"
     },
 	{
         src: "https://i.ibb.co/K2rwNNT/MEN-Chuck-Conrad-Jake-Waters.jpg",
         name: "[20240826] MEN - Chuck Conrad & Jake Waters",
-        downloadLink: "#"
+        downloadLink: "https://10gb.vn/h40oi2vsl06x.html"
     },
 	{
         src: "https://i.ibb.co/9GxbYQq/MEN-Scott-Carter-Malik-Delgaty.jpg",
         name: "[20240826] MEN - Scott Carter & Malik Delgaty",
-        downloadLink: "#"
+        downloadLink: "https://10gb.vn/nkpgy5rmo1cg.html"
     },
 	{
         src: "https://i.ibb.co/5RnNzsf/Naked-Sword-VOYR-Gabriel-Coimbra-Lucas-Dias.jpg",
         name: "[20240826] Naked Sword + VOYR - Gabriel Coimbra & Lucas Dias",
-        downloadLink: "#"
+        downloadLink: "https://10gb.vn/vmjr4vo4k6hi.html"
     },
 	{
         src: "https://i.ibb.co/PTX236W/Next-Door-Studios-Grant-Ducati-Kam-Stone.jpg",
         name: "[20240826] NextDoor Studios - Grant Ducati & Kam Stone",
-        downloadLink: "#"
+        downloadLink: "https://10gb.vn/b7kq2l64hyx5.html"
     },
 	{
         src: "https://i.ibb.co/hB8RGp8/OF-Aidan-Ward-Leander.jpg",
         name: "[20240826] OF - Aidan Ward & Leander",
-        downloadLink: "#"
+        downloadLink: "https://10gb.vn/207p3lbzywkz.html"
     },
 	{
         src: "https://i.ibb.co/CPPbF60/OF-Charlie-Cherry-Pretty-Ass-Freak.jpg",
         name: "[20240826] OF - Charlie Cherry & PrettyAssFreak",
-        downloadLink: "#"
+        downloadLink: "https://10gb.vn/oci22y23mwlw.html"
     },
 	{
         src: "https://i.ibb.co/4MqgkT1/OF-Deep-Dicc-Roxas-Caelum-Michael-Privius-Josh-Moore.jpg",
         name: "[20240826] OF - Deep Dicc, Roxas Caelum, Michael Privius & Josh Moore",
-        downloadLink: "#"
+        downloadLink: "https://10gb.vn/r4sqgn52twxl.html"
     },
 	{
         src: "https://i.ibb.co/0QHLLtb/OF-Kostya-Kazenny-Dovlet.jpg",
         name: "[20240826] OF - Kostya Kazenny & Dovlet",
-        downloadLink: "#"
+        downloadLink: "https://10gb.vn/vi8cy5ao2l9t.html"
     },
 	{
         src: "https://i.ibb.co/44fS8cb/OF-Lucca-Mazzi-Aiden-Tyler-Rick-Griff.jpg",
         name: "[20240826] OF - Lucca Mazzi, Aiden Tyler, Rick & Griff",
-        downloadLink: "#"
+        downloadLink: "https://10gb.vn/ikv15rlwcg3s.html"
     },
 	{
         src: "https://i.ibb.co/3mn1zNc/OF-Malik-Delgaty-Jkab-Ethan-Dale.jpg",
         name: "[20240826] OF - Malik Delgaty & Jkab Ethan Dale",
-        downloadLink: "#"
+        downloadLink: "https://10gb.vn/4qigphv09o6v.html"
     },
 	{
         src: "https://i.ibb.co/64vCKLJ/OF-Silver-New-Grey-Rico-Marlon.jpg",
         name: "[20240826] OF - SilverNewGrey & Rico Marlon",
-        downloadLink: "#"
+        downloadLink: "https://10gb.vn/axygg6ht2wcy.html"
     }	
 ];
 
