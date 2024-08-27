@@ -339,8 +339,82 @@ const images = [
         src: "https://i.ibb.co/tQTtLmc/OF-Cade-Maddox-Angel-Elias.jpg",
         name: "[20240823] OF - Cade Maddox & Angel Elias",
         downloadLink: "https://10gb.vn/pcdm82eu7zow.html"
-    }
-	
+    },
+	{
+        src: "https://i.ibb.co/njX1hgn/Corbin-Fisher-Dylan-Rocky.jpg",
+        name: "[20240826] Corbin Fisher - Dylan & Rocky",
+        downloadLink: "https://10gb.vn/fuvqe055t52u.html"
+    },
+	{
+        src: "https://i.ibb.co/26xGjMs/Cutlers-Den-Cutler-X-Derek-Kage.jpg",
+        name: "[20240826] CutlersDen - Cutler X & Derek Kage",
+        downloadLink: "#"
+    },
+	{
+        src: "https://i.ibb.co/gwrWH4F/Latin-Boyz-Juliano-Angelo.jpg",
+        name: "[20240826] Latin Boyz - Juliano & Angelo",
+        downloadLink: "#"
+    },
+	{
+        src: "https://i.ibb.co/SQ33PKn/Lucas-Entertainment-Ridick-Rudy-Gram.jpg",
+        name: "[20240826] Lucas Entertainment - Ridick & Rudy Gram",
+        downloadLink: "#"
+    },
+	{
+        src: "https://i.ibb.co/K2rwNNT/MEN-Chuck-Conrad-Jake-Waters.jpg",
+        name: "[20240826] MEN - Chuck Conrad & Jake Waters",
+        downloadLink: "#"
+    },
+	{
+        src: "https://i.ibb.co/9GxbYQq/MEN-Scott-Carter-Malik-Delgaty.jpg",
+        name: "[20240826] MEN - Scott Carter & Malik Delgaty",
+        downloadLink: "#"
+    },
+	{
+        src: "https://i.ibb.co/5RnNzsf/Naked-Sword-VOYR-Gabriel-Coimbra-Lucas-Dias.jpg",
+        name: "[20240826] Naked Sword + VOYR - Gabriel Coimbra & Lucas Dias",
+        downloadLink: "#"
+    },
+	{
+        src: "https://i.ibb.co/PTX236W/Next-Door-Studios-Grant-Ducati-Kam-Stone.jpg",
+        name: "[20240826] NextDoor Studios - Grant Ducati & Kam Stone",
+        downloadLink: "#"
+    },
+	{
+        src: "https://i.ibb.co/hB8RGp8/OF-Aidan-Ward-Leander.jpg",
+        name: "[20240826] OF - Aidan Ward & Leander",
+        downloadLink: "#"
+    },
+	{
+        src: "https://i.ibb.co/CPPbF60/OF-Charlie-Cherry-Pretty-Ass-Freak.jpg",
+        name: "[20240826] OF - Charlie Cherry & PrettyAssFreak",
+        downloadLink: "#"
+    },
+	{
+        src: "https://i.ibb.co/4MqgkT1/OF-Deep-Dicc-Roxas-Caelum-Michael-Privius-Josh-Moore.jpg",
+        name: "[20240826] OF - Deep Dicc, Roxas Caelum, Michael Privius & Josh Moore",
+        downloadLink: "#"
+    },
+	{
+        src: "https://i.ibb.co/0QHLLtb/OF-Kostya-Kazenny-Dovlet.jpg",
+        name: "[20240826] OF - Kostya Kazenny & Dovlet",
+        downloadLink: "#"
+    },
+	{
+        src: "https://i.ibb.co/44fS8cb/OF-Lucca-Mazzi-Aiden-Tyler-Rick-Griff.jpg",
+        name: "[20240826] OF - Lucca Mazzi, Aiden Tyler, Rick & Griff",
+        downloadLink: "#"
+    },
+	{
+        src: "https://i.ibb.co/3mn1zNc/OF-Malik-Delgaty-Jkab-Ethan-Dale.jpg",
+        name: "[20240826] OF - Malik Delgaty & Jkab Ethan Dale",
+        downloadLink: "#"
+    },
+	{
+        src: "https://i.ibb.co/64vCKLJ/OF-Silver-New-Grey-Rico-Marlon.jpg",
+        name: "[20240826] OF - SilverNewGrey & Rico Marlon",
+        downloadLink: "#"
+    }	
 ];
 
 // Sắp xếp danh sách từ Z đến A dựa trên chuỗi tên đầy đủ (bao gồm cả ngày tháng)
