@@ -529,6 +529,16 @@ const images = [
         src: "https://i.ibb.co/0MqfDgC/VOYR-Max-Bitte-Gonzales.jpg",
         name: "[20240828] VOYR - Max Bitte & Gonzales",
         downloadLink: "https://10gb.vn/h5bno5wim4l3.html"
+    },
+	{
+        src: "https://i.ibb.co/JB44XpY/OF-Hung-Gay-Cock-Connor-Peters.jpg",
+        name: "[20240828] OF - HungGayCock & Connor Peters",
+        downloadLink: "https://10gb.vn/wqw47p2mdh1f.html"
+    },
+	{
+        src: "https://i.ibb.co/prc99rv/ASG-Max-Sean-Xavier-Trevor-Harris-Matty-West.jpg",
+        name: "[20240828] ASG Max - Sean Xavier, Trevor Harris & Matty West",
+        downloadLink: "https://10gb.vn/90vdhrmdfnvl.html"
     }
 ];
 
