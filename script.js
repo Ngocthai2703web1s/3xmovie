@@ -418,117 +418,117 @@ const images = [
 	{
         src: "https://i.ibb.co/Nt3nnQQ/Bait-Buddies-Gio-Carrera-Dylan-Creamer.jpg",
         name: "[20240828] Bait Buddies - Gio Carrera & Dylan Creamer",
-        downloadLink: "#"
+        downloadLink: "https://10gb.vn/bsgmlanz4pc4.html"
     },
 	{
         src: "https://i.ibb.co/fvv8B9D/Chaos-Men-Scott-Demarco-Brody-Fox.jpg",
         name: "[20240828] ChaosMen - Scott Demarco & Brody Fox",
-        downloadLink: "#"
+        downloadLink: "https://10gb.vn/6l5hxddtp8r3.html"
     },
 	{
         src: "https://i.ibb.co/f2Fzdqb/Helix-Studios-Pheonix-Fellington-Tyler-Sweet.jpg",
         name: "[20240828] Helix Studios - Pheonix Fellington & Tyler Sweet",
-        downloadLink: "#"
+        downloadLink: "https://10gb.vn/88s6mo503o8p.html"
     },
 	{
         src: "https://i.ibb.co/cxGrgzz/Hot-Boys-Kau-John-Novinho.jpg",
         name: "[20240828] HotBoys - Kauã & John Novinho",
-        downloadLink: "#"
+        downloadLink: "https://10gb.vn/c9z3s52th5u4.html"
     },
 	{
         src: "https://i.ibb.co/BnrHYQx/Kristen-Bjorn-Xiscoxx-Antonio-Travelxx.jpg",
         name: "[20240828] Kristen Bjorn - Xiscoxx & Antonio Travelxx",
-        downloadLink: "#"
+        downloadLink: "https://10gb.vn/rn8sysw7l2iw.html"
     },
 	{
         src: "https://i.ibb.co/f23r3Hg/Lucas-Entertainment-Derek-Kage-Michael-Lucas.jpg",
         name: "[20240828] Lucas Entertainment - Derek Kage & Michael Lucas",
-        downloadLink: "#"
+        downloadLink: "https://10gb.vn/3zz1qf57o7ra.html"
     },
 	{
         src: "https://i.ibb.co/JcQRQPx/MEN-Cade-Maddox-Damian-Night.jpg",
         name: "[20240828] MEN - Cade Maddox & Damian Night",
-        downloadLink: "#"
+        downloadLink: "https://10gb.vn/dwnjl3cdqmbs.html"
     },
 	{
         src: "https://i.ibb.co/HzhZpnP/MEN-Hayden-Harding-Brogan.jpg",
         name: "[20240828] MEN - Hayden Harding & Brogan",
-        downloadLink: "#"
+        downloadLink: "https://10gb.vn/2ptncovywdpy.html"
     },
 	{
         src: "https://i.ibb.co/QdNkz8b/Meninos-Online-Tiago-Ga-cho-Don-Put-o.jpg",
         name: "[20240828] Meninos Online - Tiago Gaúcho & Don Putão",
-        downloadLink: "#"
+        downloadLink: "https://10gb.vn/yl7808srks4s.html"
     },
 	{
         src: "https://i.ibb.co/NVckPw8/Naked-Sword-Roxas-Caelum-Yan-Andy-Rodrigues.jpg",
         name: "[20240828] Naked Sword - Roxas Caelum, Yan & Andy Rodrigues",
-        downloadLink: "#"
+        downloadLink: "https://10gb.vn/urh2xb1hgj47.html"
     },
 	{
         src: "https://i.ibb.co/b2CP0DS/OF-Callum-West-Uncle-Jessie.jpg",
         name: "[20240828] OF - Callum West & Uncle Jessie",
-        downloadLink: "#"
+        downloadLink: "https://10gb.vn/gm7ectmqgxxz.html"
     },
 	{
         src: "https://i.ibb.co/z5hLLkC/OF-Connor-Peters-Jacked-Down-Under.jpg",
         name: "[20240828] OF - Connor Peters & Jacked Down Under",
-        downloadLink: "#"
+        downloadLink: "https://10gb.vn/p9f9eewk6jb0.html"
     },
 	{
         src: "https://i.ibb.co/ftP3SkC/OF-Eddie-Patrick-Adam-Snow.jpg",
         name: "[20240828] OF - Eddie Patrick & Adam Snow",
-        downloadLink: "#"
+        downloadLink: "https://10gb.vn/vdsmmxw0plyc.html"
     },
 	{
         src: "https://i.ibb.co/XpdxP0W/OF-Josh-Moore-Geo-Scar.jpg",
         name: "[20240828] OF - Josh Moore & Geo Scar",
-        downloadLink: "#"
+        downloadLink: "https://10gb.vn/l6ek75gcitlo.html"
     },
 	{
         src: "https://i.ibb.co/1TWm1X2/OF-Manuel-Reyes-Junior-BR.jpg",
         name: "[20240828] OF - Manuel Reyes & Junior BR",
-        downloadLink: "#"
+        downloadLink: "https://10gb.vn/wg8moben7xag.html"
     },
 	{
         src: "https://i.ibb.co/KrBqcVD/OF-Matt-Dubbe-Thiago-Lazzarato.jpg",
         name: "[20240828] OF - Matt Dubbe & Thiago Lazzarato",
-        downloadLink: "#"
+        downloadLink: "https://10gb.vn/enlbb40dq1q5.html"
     },
 	{
         src: "https://i.ibb.co/HdV179J/OF-Military-Gay-XXX-French-Baguet.jpg",
         name: "[20240828] OF - MilitaryGayXXX & French Baguet",
-        downloadLink: "#"
+        downloadLink: "https://10gb.vn/vkw4ivsay9mh.html"
     },
 	{
         src: "https://i.ibb.co/1TFSKdz/OF-Rhyheim-Shabazz-Gabriel-Francisco.jpg",
         name: "[20240828] OF - Rhyheim Shabazz & Gabriel Francisco",
-        downloadLink: "#"
+        downloadLink: "https://10gb.vn/gp5ccxae1jvq.html"
     },
 	{
         src: "https://i.ibb.co/RhDHjmp/OF-Rhyheim-Shabazz-Elijah-Zayne-Global-Bros-CEO.jpg",
         name: "[20240828] OF - Rhyheim Shabazz, Elijah Zayne & GlobalBrosCEO",
-        downloadLink: "#"
+        downloadLink: "https://10gb.vn/b9erkvb3eqmb.html"
     },
 	{
         src: "https://i.ibb.co/mHQBgVw/OF-Victor-Vivone-Thiago-Lazzarato.jpg",
         name: "[20240828] OF - Victor Vivone & Thiago Lazzarato",
-        downloadLink: "#"
+        downloadLink: "https://10gb.vn/gg4go4u4nvxm.html"
     },
 	{
         src: "https://i.ibb.co/C5Rmry6/Raw-Alpha-Males-Roque-Rems-Jacob-Lord.jpg",
         name: "[20240828] Raw Alpha Males - Roque Rems & Jacob Lord",
-        downloadLink: "#"
+        downloadLink: "https://10gb.vn/3ahjfu0erlxx.html"
     },
 	{
         src: "https://i.ibb.co/YbCqX0F/UK-Naked-Men-Aitor-Crash-Toby-Park.jpg",
         name: "[20240828] UK Naked Men - Aitor Crash & Toby Park",
-        downloadLink: "#"
+        downloadLink: "https://10gb.vn/6368vt7dbb03.html"
     },
 	{
         src: "https://i.ibb.co/0MqfDgC/VOYR-Max-Bitte-Gonzales.jpg",
         name: "[20240828] VOYR - Max Bitte & Gonzales",
-        downloadLink: "#"
+        downloadLink: "https://10gb.vn/h5bno5wim4l3.html"
     }
 ];
 
