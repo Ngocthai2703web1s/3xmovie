@@ -286,7 +286,7 @@ const images = [
         downloadLink: "https://10gb.vn/pkethydqxrcz.html"
     },
 	{
-        src: "https://i.ibb.co/RzP5hdt/Chaos-Men-Valentin-Petrov-Brock-Banks.jpg",
+        src: "https://i.ibb.co/JdgBJsP/Chaos-Men-Valentin-Petrov-Brock-Banks.jpg",
         name: "[20240822] ChaosMen - Valentin Petrov & Brock Banks",
         downloadLink: "https://10gb.vn/nav2aoixc1tk.html"
     },
