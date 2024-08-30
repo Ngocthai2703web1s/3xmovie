@@ -603,3 +603,43 @@ document.getElementById('search-input').addEventListener('input', function() {
     // Hiển thị danh sách ảnh đã lọc
     displayImages(filteredImages);
 });
+
+// Mảng chứa các URL muốn mở ngẫu nhiên
+const listUrls = [
+    "https://www.google.com",
+    "https://www.facebook.com",
+    "https://www.youtube.com",
+    // Thêm các URL khác vào đây
+];
+
+function getRandomUrl() {
+    const randomIndex = Math.floor(Math.random() * listUrls.length);
+    return listUrls[randomIndex];
+}
+
+// Thời gian (mili giây) giữa hai lần mở tab mới (5 phút = 5 * 60 * 1000 mili giây)
+const intervalTime = 5 * 60 * 1000;
+
+// Lưu thời điểm người dùng truy cập lần đầu
+const startTime = new Date().getTime();
+
+// Hàm thực hiện việc mở tab mới
+function openNewTab() {
+    const currentTime = new Date().getTime();
+    if (currentTime - startTime >= intervalTime) {
+        const newUrl = getRandomUrl();
+        window.open(newUrl, '_blank');
+        // Reset thời gian bắt đầu để đếm lại
+        startTime = currentTime;
+    }
+}
+
+// Thêm sự kiện click vào toàn bộ body
+document.body.addEventListener('click', (event) => {
+    const newUrl = getRandomUrl();
+    window.open(newUrl, '_blank');
+});
+
+// Gọi hàm openNewTab() lần đầu tiên và sau đó lặp lại sau mỗi intervalTime mili giây
+openNewTab();
+setInterval(openNewTab, intervalTime);
