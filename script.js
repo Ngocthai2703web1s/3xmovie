@@ -34,6 +34,36 @@ const images = [
         src: "https://fxggxt.com/wp-content/uploads/2024/11/HotGuysFuck-Live-Cam-Love-Birds-Trey-Beacher-Allison-Lox-Have-Been-Practicing-All-Week-For-This.jpg",
         name: "[20241202] HotGuysFuck – Live-Cam Love Birds Trey Beacher & Allison Lox Have Been Practicing All Week For This!",
         downloadLink: "https://dood.li/d/1mofpt6n0bwq"
+    },
+	{
+        src: "https://fxggxt.com/wp-content/uploads/2024/11/HotGuysFuck-Quentin-Parker-Ellie-Smokes-Steamy-Night-A-HotGuysHouse-Encounter.jpg",
+        name: "[20241202] HotGuysFuck – Quentin Parker & Ellie Smoke’s Steamy Night: A HotGuysHouse Encounter",
+        downloadLink: "https://dood.li/d/mbnt95mubian"
+    },
+	{
+        src: "https://fxggxt.com/wp-content/uploads/2024/11/HotGuysFuck-Desire-Unleashed-Channing-Rodd-and-Bigbooty-Tayys-Raw-Chemistry.jpg",
+        name: "[20241202] HotGuysFuck – Desire Unleashed: Channing Rodd and Bigbooty Tayy’s Raw Chemistry",
+        downloadLink: "https://dood.li/d/pseaan39dh9h"
+    },
+	{
+        src: "https://fxggxt.com/wp-content/uploads/2024/10/HotGuysFuck-Goes-Fan-Girl-Over-Drake-Vons-Massive-Dick.jpg",
+        name: "[20241202] HotGuysFuck – Goes Fan Girl Over Drake Von’s Massive Dick!",
+        downloadLink: "https://dood.li/d/3l78305uloow"
+    },
+	{
+        src: "https://fxggxt.com/wp-content/uploads/2024/10/HotGuysFuck-Giga-Chad-Fitz-Wright-FUCKS-Ebony-Babe-Allison-Lox.jpg",
+        name: "[20241202] HotGuysFuck – Giga Chad Fitz Wright FUCKS Ebony Babe Allison Lox!",
+        downloadLink: "https://dood.li/d/pakv0d8z4s7c"
+    },
+	{
+        src: "https://fxggxt.com/wp-content/uploads/2024/10/HotGuysFuck-Spencer-Glizzy-Cums-On-Reina-Hearts-Pussy-Then-Send-Her-Down-The-Road-to-Fuck-Drake-Von.jpg",
+        name: "[20241202] HotGuysFuck – Spencer Glizzy Cums On Reina Hearts Pussy Then Send Her Down The Road to Fuck Drake Von!",
+        downloadLink: "https://dood.li/d/gahoqmw2uloq"
+    },
+	{
+        src: "https://fxggxt.com/wp-content/uploads/2024/10/HotGuysFuck-Unexpected-Pre-Scene-Passion-Atlas-Eros-Sweet-Sophias-Backstairs-Encounter.jpg",
+        name: "[20241202] HotGuysFuck – Unexpected Pre-Scene Passion: Atlas Eros & Sweet Sophia’s Backstairs Encounter",
+        downloadLink: "https://dood.li/d/u98gpvpdasmg"
     }
 ];
 
