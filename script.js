@@ -64,6 +64,41 @@ const images = [
         src: "https://fxggxt.com/wp-content/uploads/2024/10/HotGuysFuck-Unexpected-Pre-Scene-Passion-Atlas-Eros-Sweet-Sophias-Backstairs-Encounter.jpg",
         name: "[20241202] HotGuysFuck – Unexpected Pre-Scene Passion: Atlas Eros & Sweet Sophia’s Backstairs Encounter",
         downloadLink: "https://dood.li/d/u98gpvpdasmg"
+    },
+	{
+        src: "https://fxggxt.com/wp-content/uploads/2024/10/HotGuysFuck-Pipe-Dreams-Mark-Rush39s-Steamy-Fixation-with-Allison-Lox.jpg",
+        name: "[20241202] HotGuysFuck – Pipe Dreams: Mark Rush’s Steamy Fixation with Allison Lox",
+        downloadLink: "https://dood.li/d/4hi8465gbxn4"
+    },
+	{
+        src: "https://fxggxt.com/wp-content/uploads/2024/10/HotGuysFuck-Breaking-In-Myles-Mints-Unbridled-Passion-Meets-Salo-Armani39s-Dark-Desires-in-a-Raunchy-First-Time-Rimjob-Experience.jpg",
+        name: "[20241202] HotGuysFuck – Breaking In: Myles Mint’s Unbridled Passion Meets Salo Armani’s Dark Desires in a Raunchy First-Time Rimjob Experience!",
+        downloadLink: "https://dood.li/d/il7466i8jnf2"
+    },
+	{
+        src: "https://fxggxt.com/wp-content/uploads/2024/10/HotGuysFuck-Bros-Gone-Wild-Logan-Luhst-Myke-Jones-HOT-3some-with-Marina-Gold.jpg",
+        name: "[20241202] HotGuysFuck – Bro’s Gone Wild! Logan Luhst & Myke Jones HOT 3some with Marina Gold!",
+        downloadLink: "https://dood.li/d/jp3wrn60xv62"
+    },
+	{
+        src: "https://fxggxt.com/wp-content/uploads/2024/10/HotGuysFuck-Trey-Beacher-Give-Brylee-Summers-A-Winter-Coating-Plunges-Her-Throat.jpg",
+        name: "[20241202] HotGuysFuck – Trey Beacher Give Brylee Summers A Winter Coating & Plunges Her Throat!",
+        downloadLink: "https://dood.li/d/dkgqbyghpmfm"
+    },
+	{
+        src: "https://fxggxt.com/wp-content/uploads/2024/10/HotGuysFuck-Bad-Boy-Landon-Long-FUCKS-Pawg-Bailey-Blaze.jpg",
+        name: "[20241202] HotGuysFuck – Bad Boy Landon Long FUCKS Pawg Bailey Blaze",
+        downloadLink: "https://dood.li/d/ga7ir81xzh90"
+    },
+	{
+        src: "https://fxggxt.com/wp-content/uploads/2024/10/HotGuysFuck-Thalia-Rhea-Services-Ripped-Hunk-James-Lux.jpg",
+        name: "[20241202] HotGuysFuck – Thalia Rhea Services Ripped Hunk James Lux",
+        downloadLink: "https://dood.li/d/y1q5i2d93pm8"
+    },
+	{
+        src: "https://fxggxt.com/wp-content/uploads/2024/09/HotGuysFuck-RAW-and-UNCUT-with-Surfer-Bro-Carter-Smith-and-Luna-Lopez.jpg",
+        name: "[20241202] HotGuysFuck – RAW and UNCUT with Surfer Bro Carter Smith and Luna Lopez!",
+        downloadLink: "https://dood.li/d/2uunzvjl3mgn"
     }
 ];
 
