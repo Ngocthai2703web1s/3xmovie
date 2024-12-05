@@ -99,6 +99,11 @@ const images = [
         src: "https://fxggxt.com/wp-content/uploads/2024/09/HotGuysFuck-RAW-and-UNCUT-with-Surfer-Bro-Carter-Smith-and-Luna-Lopez.jpg",
         name: "[20241202] HotGuysFuck – RAW and UNCUT with Surfer Bro Carter Smith and Luna Lopez!",
         downloadLink: "https://dood.li/d/2uunzvjl3mgn"
+    },
+	{
+        src: "https://fxggxt.com/wp-content/uploads/2024/09/HotGuysFuck-Logan-Luhsts-1st-Scene-Ever-with-Peruvian-Temptress-Marina-Gold.jpg",
+        name: "[20241202] HotGuysFuck – Logan Luhst’s 1st Scene Ever with Peruvian Temptress Marina Gold!",
+        downloadLink: "https://dood.li/d/bnmincxi9jdy"
     }
 ];
 
@@ -163,3 +168,12 @@ document.getElementById('search-input').addEventListener('input', function() {
     // Hiển thị danh sách ảnh đã lọc
     displayImages(filteredImages);
 });
+
+//ADS
+<script type="text/javascript">
+            var link4m_url = 'https://link2m.net/';
+            var link4m_api_token = '675104123f15b970c203c6eb';
+            var link4m_advert = 2;
+            var link4m_domains = ['dood.li'];
+        </script>
+        <script src='//link2m.net/js/full-script.js'></script>
