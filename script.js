@@ -168,12 +168,3 @@ document.getElementById('search-input').addEventListener('input', function() {
     // Hiển thị danh sách ảnh đã lọc
     displayImages(filteredImages);
 });
-
-//ADS
-<script type="text/javascript">
-            var link4m_url = 'https://link2m.net/';
-            var link4m_api_token = '675104123f15b970c203c6eb';
-            var link4m_advert = 2;
-            var link4m_domains = ['dood.li'];
-        </script>
-        <script src='//link2m.net/js/full-script.js'></script>
