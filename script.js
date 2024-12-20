@@ -104,6 +104,41 @@ const images = [
         src: "https://fxggxt.com/wp-content/uploads/2024/09/HotGuysFuck-Logan-Luhsts-1st-Scene-Ever-with-Peruvian-Temptress-Marina-Gold.jpg",
         name: "[20241202] HotGuysFuck – Logan Luhst’s 1st Scene Ever with Peruvian Temptress Marina Gold!",
         downloadLink: "https://dood.li/d/bnmincxi9jdy"
+    },
+	{
+        src: "https://fxggxt.com/wp-content/uploads/2024/12/HotGuysFuck-Isaac-Strokes-Breeds-Jenna-Beck-in-Scanty-Motel.jpg",
+        name: "[20241209] HotGuysFuck – Isaac Strokes Breeds Jenna Beck in Scanty Motel!",
+        downloadLink: "https://dood.li/d/699xrrg28b8u"
+    },
+	{
+        src: "https://fxggxt.com/wp-content/uploads/2024/12/HotGuysFuck-Devilish-Desires-Salo-Armani-and-Elija-Loads-Real-Life-Couple-Gone-Wild-Indulge-in-a-Nasty-and-Passionate-Rimjob-Fuck.jpg",
+        name: "[20241209] HotGuysFuck – Devilish Desires: Salo Armani and Elija Loads, Real-Life Couple Gone Wild, Indulge in a Nasty and Passionate Rimjob & Fuck!",
+        downloadLink: "https://dood.li/d/ps21uh1y16kd"
+    },
+	{
+        src: "https://i.ibb.co/9VbMWsd/William-Higgins-William-Seed-Marcus-Kage-Ethan-Chase.jpg",
+        name: "[20241220] William Higgins - William Seed & Marcus Kage & Ethan Chase",
+        downloadLink: "https://dood.work/d/ewkh8j9r95d0"
+    },
+	{
+        src: "https://fxggxt.com/wp-content/uploads/2024/12/MEN-Hung-Firemen-Dom-King-Mateo-Tomas-Arno-Antino.jpg",
+        name: "[20241220] MEN – Hung Firemen – Dom King, Mateo Tomas & Arno Antino",
+        downloadLink: "https://dood.work/d/fvrefjrk7imf"
+    },
+	{
+        src: "https://fxggxt.com/wp-content/uploads/2024/12/BeefCakeHunter-Begging-Jason-not-to-cum.jpg",
+        name: "[20241220] BeefCakeHunter – Begging Jason not to cum",
+        downloadLink: "https://dood.work/d/u4d6q9bfmyyd"
+    },
+	{
+        src: "https://fxggxt.com/wp-content/uploads/2024/12/MEN-Bro-Your-Balls-Are-Out-Reese-Rideout-Clark-Reid.jpg",
+        name: "[20241220] MEN – Bro, Your Balls Are Out – Reese Rideout & Clark Reid",
+        downloadLink: "https://dood.work/d/8be2loan4tyd"
+    },
+	{
+        src: "https://fxggxt.com/wp-content/uploads/2024/12/MEN-Pornstar-Part-1-Logan-Moore-Theo-Ford.jpg",
+        name: "[20241220] MEN – Pornstar, Part 1 – Logan Moore & Theo Ford",
+        downloadLink: "https://dood.work/d/j3zzr0ngcs6s"
     }
 ];
 
