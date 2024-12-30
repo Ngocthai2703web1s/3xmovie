@@ -16,7 +16,7 @@ body {
 
 .search-container {
     width: 100%;
-    max-width: 800px; /* Kích thước tối đa cho container chính */
+    max-width: 3000px; /* Kích thước tối đa cho container chính */
     padding: 20px;
     box-sizing: border-box;
     text-align: center; /* Căn giữa nội dung bên trong container */
