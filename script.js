@@ -66,21 +66,95 @@ const images = [
         downloadLink: "https://dood.work/d/bxek0073bjru"
     },
 	{
-        src: "https://fxggxt.com/wp-content/uploads/2024/05/YoungPerps-Begging-to-be-Caught-Apollo-Fates-Greg-Dixxon.jpg",
+        src: "https://i.ibb.co/BjKGmnx/Young-Perps-Begging-to-be-Caught-Apollo-Fates-Greg-Dixxon.jpg",
         name: "[20250101] YoungPerps – Begging to be Caught – Apollo Fates & Greg Dixxon",
         downloadLink: "https://dood.work/d/j0203i0s01y0"
     },
 	{
-        src: "https://fxggxt.com/wp-content/uploads/2024/04/YoungPerps-Vincents-Stainless-Steal-Vincent-OReilly-Bruce-Jones.jpg",
+        src: "https://i.ibb.co/Vgws1DW/Young-Perps-Vincents-Stainless-Steal-Vincent-OReilly-Bruce-Jones.jpg",
         name: "[20250101] YoungPerps – Vincent’s Stainless Steal – Vincent O’Reilly & Bruce Jones",
         downloadLink: "https://dood.work/d/2759hao0pk1c"
     },
 	{
-        src: "https://fxggxt.com/wp-content/uploads/2024/02/YoungPerps-Jaxons-Special-Talent-Jaxon-Valor-Rick-Kelson.jpg",
+        src: "https://i.ibb.co/ryTxmCk/Young-Perps-Jaxons-Special-Talent-Jaxon-Valor-Rick-Kelson.jpg",
         name: "[20250101] YoungPerps – Jaxon’s Special Talent – Jaxon Valor & Rick Kelson",
         downloadLink: "https://dood.work/d/2kqhoqu5zk7q"
     },
-	
+	{
+        src: "https://i.ibb.co/q5r1P55/Young-Perps-Enough-Sympathy-For-You-Donovin-Rece-Papi-Marcos.jpg",
+        name: "[20250101] YoungPerps – Enough Sympathy For You – Donovin Rece & Papi Marcos",
+        downloadLink: "https://dood.work/d/1ah6m9gbnz3k"
+    },
+	{
+        src: "https://i.ibb.co/LY9hHTP/Young-Perps-A-Void-to-Fill-Donovan-Cox-Jeremiah-Cruze-Nico-Nova-Ty-Roderick.jpg",
+        name: "[20250101] YoungPerps – A Void to Fill – Donovan Cox, Jeremiah Cruze, Nico Nova & Ty Roderick",
+        downloadLink: "https://dood.work/d/crcc2xsgrfsp"
+    },
+	{
+        src: "https://i.ibb.co/4Fxd05w/Young-Perps-The-Photographers-New-Offense-Ander-Wolfson-Papi-Marcos.jpg",
+        name: "[20250101] YoungPerps – The Photographers New Offense – Ander Wolfson & Papi Marcos",
+        downloadLink: "https://dood.work/d/q68otoovutie"
+    },
+	{
+        src: "https://i.ibb.co/LpgR53S/Young-Perps-The-Photographer-Jeremiah-Cruze-Ander-Wolfson.jpg",
+        name: "[20250101] YoungPerps – The Photographer – Jeremiah Cruze & Ander Wolfson",
+        downloadLink: "https://dood.work/d/9ots1k6xuc06"
+    },
+	{
+        src: "https://i.ibb.co/VqGn6cf/Young-Perps-Whats-With-The-Attitude-Donovin-Rece-Jeremiah-Cruze.jpg",
+        name: "[20250101] YoungPerps – YoungPerps – Whats With The Attitude – Donovin Rece & Jeremiah Cruze",
+        downloadLink: "https://dood.work/d/w0um0kcqq7oi"
+    },
+	{
+        src: "https://i.ibb.co/d68Gyjm/Young-Perps-False-Accusations-Jack-Hunter-Rick-Kelson.jpg",
+        name: "[20250101] YoungPerps – False Accusations – Jack Hunter & Rick Kelson",
+        downloadLink: "https://dood.work/d/upb9vplgnbno"
+    },
+	{
+        src: "https://i.ibb.co/fdDKYkP/Young-Perps-Dicks-Everywhere-Donovan-Cox-Nico-Nova.jpg",
+        name: "[20250101] YoungPerps – Dicks Everywhere – Donovan Cox & Nico Nova",
+        downloadLink: "https://dood.work/d/mwrff6f3u4cj"
+    },
+	{
+        src: "https://i.ibb.co/rGhZr3b/Young-Perps-So-You-Like-to-Suck-Dick-Jax-Thirio-Evan-West-Vince-Parker.jpg",
+        name: "[20250101] YoungPerps – So You Like to Suck Dick – Jax Thirio, Evan West & Vince Parker",
+        downloadLink: "https://dood.work/d/ofoaj8vn3i1w"
+    },
+	{
+        src: "https://i.ibb.co/w4kvh47/Young-Perps-Thats-Not-My-Gift-Jaxon-Valor-Keith-Foxxx-Rick-Kelson.jpg",
+        name: "[20250101] YoungPerps – That’s Not My Gift – Jaxon Valor, Keith Foxxx & Rick Kelson",
+        downloadLink: "https://dood.work/d/7xgr53mcm4jh"
+    },
+	{
+        src: "https://i.ibb.co/HGqKQ9C/Young-Perps-Fuck-Your-Way-Out-Jeremiah-Cruze-Ty-Roderick.jpg",
+        name: "[20250101] YoungPerps – Fuck Your Way Out – Jeremiah Cruze & Ty Roderick",
+        downloadLink: "https://dood.work/d/gep2d52za06x"
+    },
+	{
+        src: "https://i.ibb.co/MfRtWhx/Young-Perps-An-Attitude-Problem-Evan-West-Jax-Thirio.jpg",
+        name: "[20250101] YoungPerps – An Attitude Problem – Evan West & Jax Thirio",
+        downloadLink: "https://dood.work/d/h7gotsnz9whc"
+    },
+	{
+        src: "https://i.ibb.co/YRcKgdd/Young-Perps-Stealing-Your-Attention-Ty-Roderick-Jeremiah-Cruze.jpg",
+        name: "[20250101] YoungPerps – Stealing Your Attention – Ty Roderick & Jeremiah Cruze",
+        downloadLink: "https://dood.work/d/ein7uolac3j3"
+    },
+	{
+        src: "https://i.ibb.co/dDNtSc0/Young-Perps-Sweet-Blackmail-Killian-Knox-Leo-Silva.jpg",
+        name: "[20250101] YoungPerps – Sweet Blackmail – Killian Knox & Leo Silva",
+        downloadLink: "https://dood.work/d/0opxbzhtdnjv"
+    },
+	{
+        src: "https://i.ibb.co/f22z6X7/Gay-Patrol-Perp-Gets-It-Hard.jpg",
+        name: "[20250101] GayPatrol – Perp Gets It Hard",
+        downloadLink: "https://dood.work/d/3vqswrkia6qp"
+    },
+	{
+        src: "https://i.ibb.co/F57BFvt/Young-Perps-Cocky-Gets-Cock-Donovan-Cox-Nico-Nova.jpg",
+        name: "[20250101] YoungPerps – Cocky Gets Cock – Donovan Cox, Nico Nova",
+        downloadLink: "https://dood.work/d/nvtk4q1ctdkl"
+    }
 ];
 
 // Sắp xếp danh sách từ Z đến A dựa trên chuỗi tên đầy đủ (bao gồm cả ngày tháng)
