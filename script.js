@@ -154,6 +154,21 @@ const images = [
         src: "https://i.ibb.co/F57BFvt/Young-Perps-Cocky-Gets-Cock-Donovan-Cox-Nico-Nova.jpg",
         name: "[20250101] YoungPerps – Cocky Gets Cock – Donovan Cox, Nico Nova",
         downloadLink: "https://dood.work/d/nvtk4q1ctdkl"
+    },
+	{
+        src: "https://i.ibb.co/Q995jmv/Parole-Him-The-Cavity-Search.jpg",
+        name: "[20250101] ParoleHim – The Cavity Search",
+        downloadLink: "https://dood.work/d/1u6ujxufsxcj"
+    },
+	{
+        src: "https://i.ibb.co/SrtV6JQ/Young-Perps-Bust-Me-Again-Johnny-Ford-Jax-Thirio-Luke-Truong.jpg",
+        name: "[20250101] YoungPerps – Bust Me Again – Johnny Ford, Jax Thirio & Luke Truong",
+        downloadLink: "https://dood.work/d/v8ag8d8i48xk"
+    },
+	{
+        src: "https://i.ibb.co/kx3jpS5/Young-Perps-Wanting-to-Get-Caught-Johnny-Ford-Jax-Thirio-Carter-Del-Rey.jpg",
+        name: "[20250101] YoungPerps – Wanting to Get Caught – Johnny Ford, Jax Thirio & Carter DelRey",
+        downloadLink: "https://dood.work/d/we5xfqu5dzca"
     }
 ];
 
